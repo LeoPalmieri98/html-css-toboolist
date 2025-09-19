@@ -1,10 +1,16 @@
 header {
-   height:5%; 
-   margin: 0%;
-} 
+margin: 0%;
+   height: 15px; 
+   display: flex;
+   } 
 #testo {
     font-size: 45px;
     font-family: Arial, Helvetica, sans-serif;
+    vertical-align: middle;
+     } 
+#imgmodf {
+    padding: 15px;
+    vertical-align: middle;
     
 } 
 
