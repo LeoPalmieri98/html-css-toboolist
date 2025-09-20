@@ -16,8 +16,8 @@ header {
 } 
 main {
     padding: 3%;
-    border-left: 150px;
-    border-right: 150px;
+    border-left: 250px;
+    border-right: 250px;
     border-top: 75px;
     border-bottom: 0px;
     border-style: solid;
@@ -28,4 +28,90 @@ main {
         margin: 0%;
         height: 100%;
     }
+.evident {
+    background-color: rgb(0, 156, 228);
+    background-size: 30px;
+    color: white;
+    border-radius: 10px;
+    padding: 6px;
+    vertical-align: middle;
+    font-size: 10px;
+    }
+    #evidentviolet {
+    background-color: rgb(152, 6, 219);
+    background-size: 30px;
+    color: white;
+    border-radius: 10px;
+    padding: 6px;
+    vertical-align: middle;
+    font-size: 10px;
+    }
+    #evidentgreen {
+    background-color: rgb(43, 172, 107);
+    background-size: 30px;
+    color: white;
+    border-radius: 10px;
+    padding: 6px;
+    vertical-align: middle;
+    font-size: 10px;
+    }
+    #evidentorange {
+    background-color: rgb(243, 164, 46);
+    background-size: 30px;
+    color: white;
+    border-radius: 10px;
+    padding: 6px;
+    vertical-align: middle;
+    font-size: 10px;
+    }
+     #evidentsenape {
+    background-color: rgb(187, 201, 69);
+    background-size: 30px;
+    color: white;
+    border-radius: 10px;
+    padding: 6px;
+    vertical-align: middle;
+    font-size: 10px;
+    }
+    #evidentrose {
+    background-color: rgb(207, 58, 127);
+    background-size: 30px;
+    color: white;
+    border-radius: 10px;
+    padding: 6px;
+    vertical-align: middle;
+    font-size: 10px;
+    }
+ 
+    p {
+      font-family: Arial, Helvetica, sans-serif;  
+      font-size: large;
+    }
+    #bottonazure {
+        background-color: rgb(0, 156, 228);
+        padding: 1,5px 2px;
+        color: white;
+        border-radius: 5px;
+        border-color: rgb(0, 156, 228);
+    }
+    #bottonwhite {
+        background-color: rgb(255, 255, 255);
+        padding: 1,5px 2px;
+        color: rgb(214, 214, 214);
+        border-radius: 5px;
+        border-color: rgb(196, 196, 196);
+        vertical-align: middle;
+    }
+    strong {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: larger;
+    }
+    .checkgreen {
+        color: rgb(134, 204, 29);
+    }
+    .crossred {
+        color: rgb(255, 0, 0);
+    }
+
+
 
