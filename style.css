@@ -1,6 +1,6 @@
 header {
    margin: 0%;
-   height: 100px; 
+   height: 80px; 
    display: flex;
    background-color: white;
    } 
@@ -8,14 +8,15 @@ header {
     font-size: 45px;
     font-family: Arial, Helvetica, sans-serif;
     vertical-align: middle;
-    text-align: center;
+    
+
      } 
 #imgmodf {
     padding: 15px;
     vertical-align: middle;
 } 
 main {
-    padding: 3%;
+    padding: 1% 3%;
     border-left: 250px;
     border-right: 250px;
     border-top: 75px;
@@ -89,22 +90,18 @@ main {
     }
     #bottonazure {
         background-color: rgb(0, 156, 228);
-        padding: 1,5px 2px;
         color: white;
         border-radius: 5px;
         border-color: rgb(0, 156, 228);
+        height: 25px;
     }
     #bottonwhite {
         background-color: rgb(255, 255, 255);
-        padding: 1,5px 2px;
         color: rgb(214, 214, 214);
         border-radius: 5px;
         border-color: rgb(196, 196, 196);
-        vertical-align: middle;
-    }
-    strong {
-        font-family: Arial, Helvetica, sans-serif;
-        font-size: larger;
+        height: 25px;
+       
     }
     .checkgreen {
         color: rgb(134, 204, 29);
@@ -113,5 +110,12 @@ main {
         color: rgb(255, 0, 0);
     }
 
+    .fontstrong {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        font-weight: 600;
+        color: rgb(10, 20, 73);
+    }
+    
 
 
